@@ -1,0 +1,37 @@
+body {
+    background-color: gainsboro;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+   display: flex;
+   text-decoration: none;
+   background: #000;
+}
+li {
+    display: flex;
+}
+
+li a {
+   margin: 1em;
+   font-size: 20px;
+   text-decoration: none;
+   color: #fff;
+}
+
+section{
+    display: flex;
+    color: grey;
+}
+article {
+    
+}
+h1 {
+    align-items: center;
+}
+p {
+    align-items: center;
+}
+span {
+    font-style: italic;
+}
